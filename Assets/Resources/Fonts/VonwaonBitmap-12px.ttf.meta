@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: e0a46843bd616aa44a125e053ebe8d9f
+guid: 42bbf86006bf33c42a445bde08ad4bbb
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 9
+  fontSize: 12
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - DinkieBitmap
+  - VonwaonBitmap 12px
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
